@@ -1,0 +1,127 @@
+#title {
+  background-color: hotpink;
+  color: white;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  font-size: 40px;
+}
+body {
+  background-color: rgb(250, 249, 250);
+}
+p {
+  font-size: 20px;
+  color: rgb(47, 121, 218);
+}
+#followMe {
+  position: absolute;
+  right: 80px;
+  top: 50px;
+  font-size: 20px;
+  color: white;
+  text-decoration: white;
+}
+#followMe:link {
+  color: rgb(250, 249, 250);
+  background-color: transparent;
+  text-decoration: solid;
+}
+
+#followMe:visited {
+  color: white;
+  background-color: transparent;
+  text-decoration: solid;
+}
+
+#followMe:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+#followMe:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+#mail {
+  position: absolute;
+  right: 200px;
+  top: 50px;
+  font-size: 20px;
+  color: white;
+  text-decoration: white;
+}
+#mail:link {
+  color: rgb(250, 249, 250);
+  background-color: transparent;
+  text-decoration: solid;
+}
+
+#mail:visited {
+  color: white;
+  background-color: transparent;
+  text-decoration: solid;
+}
+
+#mail:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+#mail:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+#github {
+  position: absolute;
+  right: 310px;
+  top: 50px;
+  font-size: 20px;
+  color: white;
+  text-decoration: white;
+}
+#github:link {
+  color: rgb(250, 249, 250);
+  background-color: transparent;
+  text-decoration: solid;
+}
+
+#github:visited {
+  color: white;
+  background-color: transparent;
+  text-decoration: solid;
+}
+
+#github:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+#github:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+#plinkoStyles {
+  margin-left: 80px;
+}
+#orgSty {
+  margin-left: 200px;
+}
+#orgWeb {
+  margin-left: 500px;
+  margin-top: -40px;
+}
+#monkeyImg {
+  width: 200px;
+  height: 180px;
+  margin-left: 280px;
+}
+#monkeytxt {
+  margin-left: 1120px;
+  margin-top: -40px;
+}
